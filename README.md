@@ -1,15 +1,18 @@
-# Perfil
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/README-template/tree/main/README-profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md)
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
+# 👋 **Hi, I’m  Patrick Geandry Lima de Melo**
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### Educational background
+- Tecnologo em Redes de Computadores - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
 
 
-## Recursos para o README
+### 👀 I’m interested in : 
+  - <img src="https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=write">
+  - <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  - <img src="https://img.shields.io/badge/Puppet-FFAD19?style=plastic&logo=puppet&logoColor=black">
+  - <img src="https://img.shields.io/badge/Proxmox-000000?style=plastic&logo=proxmox&logoColor=write">
+  - <img src="https://img.shields.io/badge/PowerShell-EFFBFB?style=plastic&logo=powershell&logoColor=write">
 
-[![Card](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/README-template/blob/main/README-cards-stars/cards-stars.md)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/README-template/blob/main/badges/badges.md)
-[![Card](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/readme-template/blob/main/cards-stats/cards-stats.md)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
+### 📫 How to reach me : 
 
----
+
