@@ -14,4 +14,4 @@ https://estacio.br/
   - <img src="https://img.shields.io/badge/PowerShell-EFFBFB?style=plastic&logo=powershell&logoColor=write">
 
 ### 📫 How to reach me : 
-[![Linkedin: Patrick Geandry](https://www.linkedin.com/in/patrick-geandry-7a9802132/)
+[![Linkedin: Patrick Geandry](https://img.shields.io/badge/-https://www.linkedin.com/in/patrick-geandry-7a9802132/)
